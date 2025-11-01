@@ -8,26 +8,32 @@
 ---
 
 ### 🏫 Tentang Kami  
-Himpunan Mahasiswa Teknologi Informasi (HMTI) merupakan organisasi kemahasiswaan di bawah Departemen Teknologi Informasi Politeknik Negeri Malang.  
-Kami berperan sebagai wadah aspirasi, pengembangan potensi, serta kolaborasi antar mahasiswa dalam bidang akademik maupun non-akademik.
+Himpunan Mahasiswa Teknologi Informasi atau yang biasa disebut HMTI adalah Himpunan Mahasiswa yang dinaungi oleh Jurusan Teknologi Informasi sebagai wadah dan aspirasi serta pelayanan bagi Mahasiswa Jurusan Teknologi Informasi. HMTI berdiri pada tanggal 7 Maret 2015.
 
 ---
 
 ### 🎯 Visi  
-Menjadi organisasi mahasiswa yang profesional, inklusif, dan adaptif terhadap perkembangan teknologi.
+Meningkatkan Himpunan Mahasiswa Teknologi Informasi yang semakin sinergis dan berprestasi, serta mendukung pengembangan kompetensi dan peningkatan penyaluran aspirasi mahasiswa Jurusan Teknologi Informasi.
 
 ### 💡 Misi  
-- Membangun lingkungan kolaboratif antara mahasiswa Teknologi Informasi.  
-- Mendorong inovasi dan kreativitas melalui kegiatan akademik dan pengembangan teknologi.  
-- Menjalin hubungan baik dengan pihak internal maupun eksternal kampus.  
+- Menguatkan sinergi antar anggota Himpunan Mahasiswa Teknologi Informasi untuk peningkatan kompetensi, serta menciptakan ekosistem organisasi yang prestatif.  
+- Menjalankan program kerja yang berfokus pada peningkatan prestasi akademik dan non akademik yang bersifat jangka panjang.  
+- Peningkatan Efektivitas Wadah Penyaluran Aspirasi mahasiswa Jurusan Teknologi Informasi.  
 
 ---
 
-### 📂 Program dan Kegiatan  
-- **IT Development:** Workshop, pelatihan, dan proyek kolaboratif.  
-- **HMTI Care:** Kegiatan sosial dan pengabdian masyarakat.  
-- **HMTI Fest:** Event tahunan sebagai wadah kreativitas dan kompetisi.  
-- **Internal Growth:** Pengembangan soft skills dan kepemimpinan anggota.
+### 📂 Program Kerja  
+- **Musyawarah Kerja** 
+- **Dies Natalis**
+- **Prastudi**
+- **Open Recruitment**
+- **Pemilihan Ketua Umum**
+- **Internal Competition**
+- **Seminar Nasional**
+- **Semarak Pekan Olahraga Teknologi Informasi**
+- **Dialog Dosen Mahasiswa**
+- **Malam Keakraban**
+- **Study Excursie**
 
 ---
 
